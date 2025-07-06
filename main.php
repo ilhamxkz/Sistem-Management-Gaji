@@ -22,7 +22,7 @@ function saveData($data)
 function menu(){
     do {
         echo "\nMenu:\n";
-        echo "1. Lihat Karyawan\n";
+        echo "1. Lihat semuanya Karyawan\n";
         echo "2. Tambah Karyawan\n";
         echo "3. Update Karyawan\n";
         echo "4. Hapus Karyawan\n";
