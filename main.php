@@ -26,7 +26,7 @@ function menu(){
         echo "2. Tambah Karyawan\n";
         echo "3. Update Karyawan\n";
         echo "4. Hapus Karyawan\n";
-        echo "5. Hitung Gaji satu Karyawan\n";
+        echo "5. Hitung Gaji Karyawan\n";
         echo "6. Keluar Aplikasi\n";
         echo "Pilih menu: ";
         $pilihan = trim(fgets(STDIN));
